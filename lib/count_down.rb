@@ -1,5 +1,7 @@
+count_down = 10
+
 While 
- 10 > 1 
+ count_down > 1 
 do
-  10 - 1 
+  count_down - 1 
 end 
